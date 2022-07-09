@@ -1,5 +1,5 @@
 # Calculadora-Proposta-De-Exercicio-final
-Exercício proposto pela Professora Ana Luísa 
+Exercício proposto pela Professora Ana Luísa
 
 Recebe dois números (Float) e a opção de operação (+ - * /) a ser feita. Faz o cálculo e retorna seu resultado.
 
